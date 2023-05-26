@@ -7,3 +7,5 @@ module.exports = {
   strings,
   dates
 }
+
+// I am a commment!
